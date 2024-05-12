@@ -16,10 +16,11 @@ Colete as informações do contrato utilizando a função coleta_dados_contrato(
 Chame a função sugerir_texto_modelo() para gerar o texto modelo.
 Adapte o texto modelo de acordo com as necessidades específicas do cliente.
 Finalize a minuta e salve o documento.
-Promoção do Programa:
+
+
 O "Minuta Fácil" é uma ferramenta essencial para advogados que desejam aumentar sua produtividade, precisão e padronização na elaboração de minutas contratuais. O programa é fácil de usar e oferece diversos benefícios, como a redução de custos e a garantia de que o texto modelo esteja de acordo com a legislação vigente.
 
-Para mais informações sobre o programa, visite o site [URL inválido removido].
+
 
 Observações:
 O código apresentado utiliza a biblioteca Google Generative AI, que requer uma chave de API para funcionar.
