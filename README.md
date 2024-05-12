@@ -1,7 +1,7 @@
 # MinutaFacil
-# by Quinto
 
 Descrição Detalhada do Programa:
+
 O programa "Minuta Fácil" auxilia advogados na elaboração de minutas contratuais de forma rápida e eficiente. Através da coleta de dados básicos do contrato e da utilização da tecnologia de inteligência artificial, o programa gera um texto modelo que pode ser facilmente adaptado para atender às necessidades específicas do cliente.
 
 Benefícios do Programa:
